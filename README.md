@@ -10,3 +10,4 @@ Projects are sorted based on whether they were completed in my undergraduate or 
     - Seismic Risk Analysis of the City of Vancouver, British Columbia (GIS and Data Integration Course Project)
 2. Graduate Degree:
     - UAVs for Highway Mapping and Asset Inspections (MTO Highway Infrastructure Innovation Funding Program (HIIFP) Challenge)
+    - Simulation Based Autonomous RPAS Navigation Using Reinforcement Learning (AOLS 2021 AGM Conference Poster)
