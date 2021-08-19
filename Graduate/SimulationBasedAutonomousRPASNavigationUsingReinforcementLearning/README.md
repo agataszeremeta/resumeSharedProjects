@@ -4,7 +4,7 @@ A poster submitted to the Association of Ontario Land Surveyors (AOLS) 15th Annu
 Competing posters were assessed by members of the AOLS and were judged based on content, innovation, clarity, layout, acknowledgments, esthetics and overall presentation. The poster won 5th place ($500). The poster and its corresponding abstract are published in the Spring 2021 of the Ontario Professional Surveyor magazine. 
 
 <p align="center">
-  <img src="Graduate/SimulationBasedAutonomousRPASNavigationUsingReinforcementLearning/images/poster.png" width="608" height="410" />
+  <img src="/Graduate/SimulationBasedAutonomousRPASNavigationUsingReinforcementLearning/images/poster.png" width="608" height="410" />
 </p>
 
 ## Uploaded File Details 
