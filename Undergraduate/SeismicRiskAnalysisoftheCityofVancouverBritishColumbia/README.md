@@ -2,7 +2,7 @@
 
 A project studying the seismic risk for the City of Vancouver based on its geophysical and demographic data. 
 
-![Seismic Risk Image](https://github.com/agataszeremeta/resumeSharedProjects/Undergraduate/SeismicRiskAnalysisoftheCityofVancouverBritishColumbia/seismicRisk.PNG)
+![Seismic Risk Image](https://github.com/agataszeremeta/resumeSharedProjects/Undergraduate/SeismicRiskAnalysisoftheCityofVancouverBritishColumbia/images/seismicRisk.PNG)
 
 ## General Details
 - Geographic Information Systems (GIS) and Data Integration final couse project
