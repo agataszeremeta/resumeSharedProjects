@@ -1,6 +1,8 @@
 # UAVS for Highway Mapping and Asset Inspection
 
-![Markham Airport Point Cloud](/Graduate/UAVsforHighwayMappingandAssetInspection/images/markamPointCloud.PNG)
+<p align="center">
+  <img src="/Graduate/UAVsforHighwayMappingandAssetInspection/images/markamPointCloud.PNG" width="1000" height="275" />
+</p>
 
 ## Project Abstract
 This research project investigates the use and assessment of low-cost Unmanned Aerial Vehicles (UAVs) for highway mapping applications including topographic mapping, mapping and 3D modelling of bridges, and inspection of bridges for damages, such as crack detection and mapping. Low altitude UAV remote sensing offers a better perspective and coverage over an area and provides the ability for targeted coverage at flexible visiting times.
