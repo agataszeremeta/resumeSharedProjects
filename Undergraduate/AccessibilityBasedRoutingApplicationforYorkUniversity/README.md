@@ -1,8 +1,9 @@
 # Accessibility Based Routing Application for York University
 A routing application that provided users with guidance around York University Keele campus based on their input accessibility needs, as part of the Engineering Capstone course requirements.
 
-
-![Application Screenshot](/Undergraduate/AccessibilityBasedRoutingApplicationforYorkUniversity/images/applicationScreenshot.png)
+<p align="center">
+  <img src="/Undergraduate/AccessibilityBasedRoutingApplicationforYorkUniversity/images/applicationScreenshot.png" width="700" height="450" />
+</p>
 
 
 ## General Details
