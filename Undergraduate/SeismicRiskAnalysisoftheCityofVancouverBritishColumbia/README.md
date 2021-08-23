@@ -11,4 +11,4 @@ A project studying the seismic risk for the City of Vancouver based on its geoph
 - Software used included: ArcGIS and FME
 
 ## Uploaded File Details
-- Final presentation PDF in which motivation, methodology, and results were discussed
+- *ESSE4600_FinalProjectPresentation.pdf*: Final presentation PDF in which motivation, methodology, and results were discussed
