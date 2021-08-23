@@ -9,3 +9,5 @@ UAV images were taken over the Markham Airport, where the runway and a taxiway w
 
 Data collection, processing methods, result and recommendations are presented and discuss in this report.
 
+## Uploaded File Details
+*MTOHIIFP201816_Report_UAVsforHighwayMappingandAssetInspection.pdf*: Final report submitted to the Ministry of Transportation (MTO), available online at the Ministry's Research Library Catalog
