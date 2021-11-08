@@ -12,6 +12,7 @@ Position Dilution of Precision (PDOP), and Time Dilution of Precision (TDOP) fac
 computed and plotted to aid in assess the quality of results (or, more specifically, the effects of
 satellite positioning/geometry on results). Such code was created around the ALGO112008
 dataset.
+
 The position of the receiver was computed to be [9.1818x10^5m, -4.3461x10^6m, 4.5620x10^6m] in the XYZ direction, respectively. This differed from the given approximate
 coordinates in the observation file by [-51.6341m, -2.9873m, -6.8225m]. It is believed
 that, given addition tropospheric corrections, such differences (mainly in the X component)
