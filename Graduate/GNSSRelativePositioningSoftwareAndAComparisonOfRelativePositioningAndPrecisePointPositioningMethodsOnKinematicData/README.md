@@ -1,7 +1,9 @@
-#GNSS Relative Positioning Software And A Comparison Of Relative Positioning And Precise Point Positioning Methods On Kinematic Data
+# GNSS Relative Positioning Software And A Comparison Of Relative Positioning And Precise Point Positioning Methods On Kinematic Data
 
 ## Project Abstract
+The main objectives of this project were to develop a relative positioning software and use such software to perform a comparison on the post-processed kinematic (PPK), specifically Relative Positioning, and Kinematic Precise Point Positioning (PPP) methods. In addition, an objective of this project was to study the various factors that affect positioning results, such as observation length, short and long baselines, etc. Unfortunately, due to a error in the final processing step of the software, a fully functioning software was not completed. However, a comparison of the two positioning methods and brief study of the various factors that affect their results was still made. Publicly available software, RTKLib and CSRS-PPP, were used to obtain relative positioning and precise point positioning results, respectively, regarding recently (self-collected) and previously collected GPS kinematic data. As the conditions of the datasets (i.e. their collection processes) are significantly different from each other, the impact of the factors that could affect results were easily observable in the results.
 
+Findings agree with the expected result of relative positioning providing positional results of a greater accuracy than precise point positioning methods. Study of the factors show that the base station (specifically, its coordinates) play a significant role in the relative positioning process and the position solution of the rover receiver. It was observed that longer observation periods and greater number of epoch satellites, tend to improve the positional accuracies.
 
 ## Uploaded File Details
-- *.pdf*: Final submitted report
+- *ESS5410_SzeremetaAgata_ProjectReport.pdf*: Final submitted report
