@@ -11,3 +11,4 @@ Projects are sorted based on whether they were completed in my undergraduate or 
 2. Graduate Degree:
     - UAVs for Highway Mapping and Asset Inspections (MTO Highway Infrastructure Innovation Funding Program (HIIFP) Challenge)
     - Simulation Based Autonomous RPAS Navigation Using Reinforcement Learning (AOLS 2021 AGM Conference Poster)
+    - GNSS Relative Positioning Software and a Comparison of Relative Positioning and Precise Point Positioning Methods on Kinematic Data (Advanced Satellite Positioning Course Project)
