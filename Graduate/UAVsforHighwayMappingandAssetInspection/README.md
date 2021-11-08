@@ -1,4 +1,4 @@
-# UAVS for Highway Mapping and Asset Inspection
+# UAVs for Highway Mapping and Asset Inspection
 
 <p align="center">
   <img src="/Graduate/UAVsforHighwayMappingandAssetInspection/images/markamPointCloud.PNG" width="1000" height="275" />
