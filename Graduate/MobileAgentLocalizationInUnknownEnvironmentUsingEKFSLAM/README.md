@@ -5,3 +5,4 @@ This project focuses on localizing a moving agent in and mapping an unknown envi
 ## Uploaded File Details 
 - *MobileAgentLocalizationInUnknownEnvironmentUsingEKFSLAM.pdf:* Final submitted report
 - *MobileAgentLocalizationInUnknownEnvironmentUsingEKFSLAM_Presentation.pptx:* Final project presentation
+- *MobileAgentLocalizationInUnknownEnvironmentUsingEKFSLAM_Presentation.pdf:* Final project presentation as PDF, for viewing directly in browser
